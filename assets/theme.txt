@@ -1,0 +1,2 @@
+I decided to make 2d pixel art game with cat as player character.
+I also designed it like retro rpg game with potion, arrow and magic (fireball) etc.
